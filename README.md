@@ -1,4 +1,4 @@
-# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Desafio Intermediário da DIO GFT 03 - Herança Bancária: Entendendo a Herança e Polimorfismo
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Desafio Intermediário da DIO GFT 04 - Herança Bancária: Entendendo a Herança e Polimorfismo
 
 
 #### Desenvolvido na linguagem Java por:
